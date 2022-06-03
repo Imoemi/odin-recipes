@@ -37,3 +37,15 @@ ol{
    width: 50%;
    border-radius: 50%;
 }
+.bread {
+    background-color: orange;
+    color: white;
+}
+.macaroni {
+    background-color: green;
+    color: white;
+}
+.bread, .macaroni {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
