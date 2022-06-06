@@ -56,3 +56,10 @@ ol{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
 }
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+  }
+  
