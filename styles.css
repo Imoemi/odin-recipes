@@ -56,13 +56,3 @@ ol{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
 }
-#crop-image {
-    float: left;
-    width: 400px;
-    height: 400px;
-}
-#crop-image2 {
-    float:right
-    width: 400px;
-    height: 400px;
-}
