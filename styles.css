@@ -65,4 +65,7 @@ ol{
 .box-maintext {
     padding: 20px;
     border: 10px;
+    height: 100px;
+    width: 700px;
+    box-sizing: border-box;
 }
