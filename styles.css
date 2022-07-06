@@ -62,4 +62,7 @@ ol{
     font-size: 20px;
     text-align: center;
   }
-  
+.box-maintext {
+    padding: 20px;
+    border: 10px;
+}
