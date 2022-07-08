@@ -66,6 +66,24 @@ ol{
     padding: 20px;
     border: 10px;
     height: 100px;
-    width: 700px;
+    /*width: 700px;*/
     box-sizing: border-box;
 }
+/*.main-container {
+    height: 140px;
+    padding: 16px;
+    background: plum;
+    border: 4px solid indigo;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }*/
+  
+  /*.item {
+    width: 60px;
+    height: 60px;
+    border: 4px solid darkslategray;
+    background: skyblue;
+    /*flex: 1;
+  }*/ 
