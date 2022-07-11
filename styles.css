@@ -2,7 +2,7 @@
     background-color: rgb(137, 137, 252);
     color: white;
     font-size: 18px;
-    outline: 2px solid red; 
+    outline: 2px solid red;
     box-sizing: border-box;
 }
 h1{
@@ -68,7 +68,7 @@ ol{
 .box-maintext {
     padding: 20px;
     border: 10px green;
-    height: 100px;
+    height: 50px;
     /*width: 700px;*/
 }
 /*.main-container {
@@ -109,7 +109,7 @@ ol{
   
   .link {
     font-size: 22px;
-    background: white;
+    background: papayawhip;
     padding: 8px;
     /* this removes the line under the links */
   }
@@ -123,4 +123,7 @@ ul {
   margin: 0;
   padding: 0;
   /*gap: 8px;*/
+}
+.recipes {
+    display: block;
 }
